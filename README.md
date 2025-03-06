@@ -1,6 +1,8 @@
-# PrettyPrint# PrettyPrint
+# PrettyPrint
 
 A versatile command-line tool to print code files with text only formatting, filtering options, and project structure visualization.
+
+![pp](https://github.com/user-attachments/assets/acd80b13-4d9a-4c9c-9a42-6f89d6fdcd30)
 
 ## Overview
 
@@ -133,7 +135,7 @@ The output consists of two main sections:
    ```
 
 2. **File Contents**:
-   ```
+
    # File Contents
 
    ==================
