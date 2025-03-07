@@ -158,7 +158,6 @@ The output consists of two main sections:
    ...
    ```
    ==================
-   ```
 
 ## Customizing Binary Files
 
